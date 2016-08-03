@@ -13,7 +13,7 @@ display_name: Developer Bootcamp
 duration: 6
 duration_units: weeks
 financing: 'No'
-guarantee: 'Yes'
+guarantee: 'No'
 placement:
 program_slug: Master SQL Server Developer Bootcamp
 promises_job:
