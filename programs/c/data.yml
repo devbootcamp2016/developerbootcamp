@@ -2,25 +2,19 @@ admissions: Application
 cities:
 - remote
 commitment: full-time
-cost_description: $6000
+cost_description: $2400
 display_name: Developer Bootcamp
-duration: 5
+duration: 2
 duration_units: courses
 financing: 'Yes'
 guarantee: 'No'
 placement:
-program_slug: Web Developer Bootcamp
+program_slug: C/C++ Programmer Bootcamp
 promises_job:
 scholarships:
 topics:
-- html5
-- css
-- javascript
-- jquery
-- angular
-- php
-- python
-- asp.net
+- c
+- c++
 tuition:
 tuition_units:
 reports_graduation_and_placement_rates: "No"

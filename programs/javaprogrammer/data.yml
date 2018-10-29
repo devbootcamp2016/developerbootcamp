@@ -1,18 +1,12 @@
 admissions: Application
 cities:
-- chelmsford
-- chicago
-- dallas
-- houston
-- irvine
-- san jose
-- remote
+- online
 commitment: full-time
-cost_description: $4090
+cost_description: $2400
 display_name: Developer Bootcamp
-duration: 3
-duration_units: weeks
-financing: 'No'
+duration: 2
+duration_units: courses
+financing: 'Yes'
 guarantee: 'No'
 placement:
 program_slug: Java Programmer Bootcamp

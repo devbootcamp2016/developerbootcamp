@@ -1,9 +1,6 @@
-Propel your career with an immersive, hands-on experience – face-to-face at one of our facilities across the country or remote attendance featuring full interaction during live classroom instruction as well as facilitated hands-on labs.
+Our unique approach combines on-demand streaming with personal facilitation and comprehensive hands-on exercises to assure successful training and competence in the IT workplace. Our support staff provides personal setup assistance, guidance and lab equipment setup for each student. An instructor is assigned to each student to assist in completing lab exercises and to help with any questions about the course content. Our classes are designed to be 50% lecture and 50% hands on exercises. Lab exercises are performed via direct high-speed access to a dedicated lab machine, providing responsive interaction and anywhere/anytime accessibility by the lab facilitator as well as the student. 
 
-We are dedicated to providing IT professionals with the skills and knowledge necessary to enhance competency and productivity. Whether you are moving into a new technology or advancing your current skill set, we will provide you with an unparalleled learning environment.
+Guarantee
+We guarantee overall quality with a 100% money-back guarantee. If you're not totally satisfied for any reason, simply withdraw prior to completing the fourth module. No refunds are available once 4 or more modules of a course are completed.
 
-We’ve built our curriculum to reflect the needs of our students as they have communicated them to us. As a result, you don’t just learn what we think you should learn, you learn what other professionals like you have identified as necessary to their jobs.
-
-We guarantee overall quality with a 100% money-back guarantee. If you're not totally satisfied for any reason, simply withdraw before the second day of any class.
-
-Bootcamps include .NET, Linux, Java, Mobile, SQL, Web and SharePoint.
+Bootcamps include SQL, .NET, UNIX/Linux, Java, C/C++, Mobile App Development, Python and Web Development.

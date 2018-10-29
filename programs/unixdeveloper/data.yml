@@ -1,18 +1,12 @@
 admissions: Application
 cities:
-- chelmsford
-- chicago
-- dallas
-- houston
-- irvine
-- san jose
-- remote
+- online
 commitment: full-time
-cost_description: varies by track
+cost_description: $3600
 display_name: Developer Bootcamp
-duration: 4-5
-duration_units: weeks
-financing: 'No'
+duration: 3
+duration_units: courses
+financing: 'Yes'
 guarantee: 'No'
 placement:
 program_slug: UNIX Software Developer Bootcamp
